@@ -42,3 +42,5 @@ int  main(){
 	F obj1;
 	obj1.say1();
 }
+const add=2+4
+console.log(6)
